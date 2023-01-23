@@ -1,0 +1,34 @@
+.app {
+  background-image: url(/src/Images/spacejoy-hWwP4LTGEQA-unsplash.jpg);
+  height: 36em;
+  background-size: cover;
+
+}
+.ul{
+  background-color: rgb(177,177,252);
+  height: 36em;
+  background-size: cover;
+  text-align: center;
+}
+.ur{
+  background-color: rgb(243, 169, 223);
+  height: 36em;
+  background-size: cover;
+  text-align: center;
+}
+.al{
+  background-color: rgb(247, 203, 235);
+  height: 36em;
+  background-size: cover;
+  text-align: center;
+}
+.ad{
+  background-color: rgba(247, 203, 235, 0.84);
+  height: max-content;
+  background-size: cover;
+  text-align: center;
+}
+.nb{
+  background-color: rgba(104, 208, 249);
+  height: max-content;
+}
